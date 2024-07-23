@@ -7,7 +7,7 @@ git config --global user.name "your user name" --replase-all
 ```
 
 ```bash
-git config --global user.name "your email" --replase-all
+git config --global user.email "your email" --replase-all
 ```
 
 ---
